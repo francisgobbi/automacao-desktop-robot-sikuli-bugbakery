@@ -2,7 +2,7 @@
 Documentation       Ações de venda no PDV
 
 * Keywords *
-Abrir PDV
+Abrir PDV   
     Click   menu-vendas.png
 
 Selecionar o Funcionario
