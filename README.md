@@ -1,5 +1,5 @@
-# robot-sikuli-bug-backery
-Repo usado na Live sobre Automação Desktop com Robot e Sikuli
+# robot-sikuli-
+Automação Desktop com Robot e Sikuli
 
 
 Você vai precisar das seguintes ferramentas e tecnologias:
