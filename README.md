@@ -1,4 +1,4 @@
-# robot-sikuli-
+# robot-sikuli
 Automação Desktop com Robot e Sikuli
 
 
